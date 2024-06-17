@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Cheng Zhang&#039;s Group</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>Cheng Zhang&#039;s Research Group</title>
+	<atom:link href="https://chzhangudel.github.io/czgroup/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chzhangudel.github.io/czgroup/</link>
 	<description></description>
-	<lastBuildDate>Sun, 16 Jun 2024 22:06:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jun 2024 04:13:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://chzhangudel.github.io/czgroup/hello-world/</link>
+					<comments>https://chzhangudel.github.io/czgroup/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[alongalong2]]></dc:creator>
-		<pubDate>Sun, 16 Jun 2024 22:06:01 +0000</pubDate>
+		<pubDate>Mon, 17 Jun 2024 04:13:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://chzhangudel.github.io/czgroup/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://chzhangudel.github.io/czgroup/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
