@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="https://chzhangudel.github.io/czgroup/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chzhangudel.github.io/czgroup/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Aug 2024 00:08:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>We are hiring!</title>
+		<link>https://chzhangudel.github.io/czgroup/we-are-hiring/</link>
+		
+		<dc:creator><![CDATA[Cheng Zhang]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2024 02:28:39 +0000</pubDate>
+				<category><![CDATA[Openings]]></category>
+		<guid isPermaLink="false">https://chzhangudel.github.io/czgroup/?p=2384</guid>
+
+					<description><![CDATA[Two PhD Positions (4 years, fully funded) in Machine Learning and Numerical Modeling of Coastal Hazards   Job Description: We are inviting applications for two PhD student positions in Coastal Engineering with an anticipated start date of January or September 2025. The successful candidates will become part of a dynamic research group led by Dr. [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2384" class="elementor elementor-2384">
+				<div class="elementor-element elementor-element-f699a0f e-flex e-con-boxed e-con e-parent" data-id="f699a0f" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6b69fe4 elementor-widget elementor-widget-text-editor" data-id="6b69fe4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 17-06-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Two PhD Positions (4 years, fully funded) in Machine Learning and Numerical Modeling of Coastal Hazards</strong></p><p> </p><p><strong>Job Description:</strong></p><p>We are inviting applications for two PhD student positions in Coastal Engineering with an anticipated start date of <strong>January or September 2025</strong>. The successful candidates will become part of a dynamic research group led by Dr. Cheng Zhang (<a href="https://chzhangudel.github.io/czgroup/">https://chzhangudel.github.io/czgroup/</a>) within the Henry M. Rowan College of Engineering at Rowan University (NJ, USA). The positions aim to advance our understanding of coastal processes under natural hazards, such as waves and surges from extreme weather events and tsunamis triggered by landslides and seismic activities, particularly in the context of climate change. The roles involve utilizing existing numerical models and developing AI-enhanced tools to assess and mitigate risks associated with these hazards in coastal communities. The PhD students will have opportunities to collaborate with researchers from Princeton University, Rutgers University, and the University of Delaware. For further information, contact Dr. Cheng Zhang at cheng.zhang@princeton.edu.</p><p> </p><p><strong>Basic Qualifications:</strong><br />• A bachelor&#8217;s degree in Civil Engineering, Ocean Engineering, Physical Oceanography, Mechanical engineering, or a closely related discipline to Water Fluid Dynamics.<br />• A strong commitment to developing a successful research career in Coastal Engineering.<br />• Good communication and interpersonal skills.<br />• Other admission requirements in the following link (<a href="https://global.rowan.edu/programs/phd-in-engineering.html">https://global.rowan.edu/programs/phd-in-engineering.html</a>).</p><p> </p><p><strong>Preferred Qualifications:</strong><br />• A master&#8217;s degree in the disciplines.<br />• Prior research experience in computational fluid dynamics, ocean modeling, coastal hazards and data-driven methods.<br />• Experience in programming languages, e.g., Fortran, C/C++, Python, and Matlab.<br />• Record of published research articles, or giving presentations at international conferences.</p><p> </p><p><strong>How to Apply:</strong></p><p>Applications will be reviewed on a rolling basis until the positions are filled. Please email the required documents to @ with the subject line &#8216;PhD Application + Applicant Name&#8217;:</p><p>• Motivation letter<br />• CV, including a list of publications (if applicable)<br />• Copy of academic transcripts for your relevant degree</p><p> </p><p><strong>About Rowan University:</strong></p><p>Rowan University is a comprehensive state-designated public research institution located in southern New Jersey. Rowan is one of the fastest-growing universities in the nation, recently ranked #163 in National Universities and #88 in Top Public Schools by U.S. News. The Henry M. Rowan College of Engineering is growing rapidly with a new building (Engineering Hall), a renovated building (Rowan Hall), and office and laboratory space at the South Jersey Technology Park. The Department of Civil Engineering is a highly connected community hosting multiple research groups in broader areas of Structural Engineering, Transportation Engineering, Geotechnical Engineering, Water Resources Engineering, and Coastal Engineering. We are in close proximity to major cities like Philadelphia (30-minute drive), New York City (2-hour drive), and Washington D.C (2.5-hour drive).</p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
